@@ -1,0 +1,245 @@
+Code,Country,latitude,longitude,2017,2018,2019,2020,2021,2022
+AD,Andorra,"42,5462","1,602",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+AE,United Arab Emirates,"23,4241","53,848",26624.9,69942.7,69733,21577.5,16149.2,22883
+AF,Afghanistan,"33,9391","67,71",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+AG,Antigua and Barbuda,"17,0608","-61,796",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+AI,Anguilla,"18,2206","-63,069",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+AL,Albania,"41,1533","20,168",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+AM,Armenia,"40,0691","45,038",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+AN,Netherlands Antilles,"12,2261","-69,06",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+AO,Angola,"-11,2027","17,874",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+AQ,Antarctica,"-75,251","-0,071",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+AR,Argentina,"-38,4161","-63,617",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+AS,American Samoa,"-14,271","-170,132",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+AT,Austria,"47,5162","14,55",3161.9,71406.7,19696.7,1221.4,63348.5,67399.4
+AU,Australia,"-25,2744","133,775",513865.5,597437.8,348265.8,348553.3,195195.5,524408.5
+AW,Aruba,"12,5211","-69,968",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+AZ,Azerbaijan,"40,1431","47,577",180,0,0,0,45051,0
+BA,Bosnia and Herzegovina,"43,9159","17,679",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+BB,Barbados,"13,1939","-59,543",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+BD,Bangladesh,"23,685","90,356",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+BE,Belgium,"50,5039","4,47",130532.3,216373.2,86841.7,27041,55514,73163.3
+BF,Burkina Faso,"12,2383","-1,562",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+BG,Bulgaria,"42,7339","25,486",1213.1,521.3,177.8,176.4,154.5,1001
+BH,Bahrain,"25,9304","50,638",664.2,86.6,0,0,0,0
+BI,Burundi,"-3,3731","29,919",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+BJ,Benin,"9,3077","2,316",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+BM,Bermuda,"32,3214","-64,757",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+BN,Brunei,"4,5353","114,728",2424572,508.5,532.9,0.3,0,0.9
+BO,Bolivia,"-16,2902","-63,589",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+BR,Brazil,"-14,235","-51,925",231642.7,98427.3,18749.5,682.5,282.1,8803
+BS,Bahamas,"25,0343","-77,396",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+BT,Bhutan,"27,5142","90,434",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+BV,Bouvet Island,"-54,4232","3,413",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+BW,Botswana,"-22,3285","24,685",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+BY,Belarus,"53,7098","27,953",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+BZ,Belize,"17,1899","-88,498",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CA,Canada,"56,1304","-106,347",85652.2,170769.3,186267.4,175287,182090.7,250428.2
+CC,Cocos [Keeling] Islands,"-12,1642","96,871",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CD,Congo [DRC],"-4,0383","21,759",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CF,Central African Republic,"6,6111","20,939",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CG,Congo [Republic],"-0,228","15,828",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CH,Switzerland,"46,8182","8,228",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CI,Côte d'Ivoire,"7,54","-5,547",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CK,Cook Islands,"-21,2367","-159,778",1684.4,3901.9,6449.3,1127,749.7,19391.1
+CL,Chile,"-35,6751","-71,543",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CM,Cameroon,"7,3697","12,355",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CN,China,"35,8617","104,195",3361231,2376538,4744509,4842406,3160380,8226035
+CO,Colombia,"4,5709","-74,297",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CR,Costa Rica,"9,7489","-83,753",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CU,Cuba,"21,5218","-77,781",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CV,Cape Verde,"16,0021","-24,013",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CX,Christmas Island,"-10,4475","105,69",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+CY,Cyprus,"35,1264","33,43",6601.2,5574,5382.9,426.4,254,1407.3
+CZ,Czech Republic,"49,8175","15,473",1554.3,968.5,1062.7,754.5,1036.8,3234.2
+DE,Germany,"51,1657","10,452",288980.5,280418.1,189303.2,143614,182319,195494.8
+DJ,Djibouti,"11,8251","42,59",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+DK,Denmark,"56,2639","9,502",17958.5,-30648,2083345,2505,14242.7,12696.3
+DM,Dominica,"15,415","-61,371",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+DO,Dominican Republic,"18,7357","-70,163",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+DZ,Algeria,"28,0339","1,66",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+EC,Ecuador,"-1,8312","-78,183",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+EE,Estonia,"58,5953","25,014",0,0,0,7,0,313.6
+EG,Egypt,"26,8206","30,802",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+EH,Western Sahara,"24,2155","-12,886",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+ER,Eritrea,"15,1794","39,782",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+ES,Spain,"40,4637","-3,749",2155084,10521.1,1801803,2076131,1781045,17290.5
+ET,Ethiopia,"9,145","40,49",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+FI,Finland,"61,9241","25,748",200,594647,1252996,45141,1126196,289121
+FJ,Fiji,"-16,5782","179,414",100,0,0,0,0,0
+FK,Falkland Islands [Islas Malvinas],"-51,7963","-59,524",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+FM,Micronesia,"7,4256","150,551",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+FO,Faroe Islands,"61,8926","-6,912",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+FR,France,"46,2276","2,214",249570.8,49631.1,167354.3,25111.7,145763.8,252867.9
+GA,Gabon,"-0,8037","11,609",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GB,UK,"55,3781","-3,436",774784,271133.6,142121.7,192752.4,322949.1,628275.8
+GD,Grenada,"12,2628","-61,604",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GE,Georgia,"42,3154","43,357",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GF,French Guiana,"3,9339","-53,126",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GG,Guernsey,"49,4657","-2,585",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GH,Ghana,"7,9465","-1,023",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GI,Gibraltar,"36,1377","-5,345",0,0,0,44966,0,37.6
+GL,Greenland,"71,7069","-42,604",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GM,Gambia,"13,4432","-15,31",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GN,Guinea,"9,9456","-9,697",1500,0,0,0,0,0
+GP,Guadeloupe,"16,996","-62,068",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GQ,Equatorial Guinea,"1,6508","10,268",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GR,Greece,"39,0742","21,824",610,728.1,734.9,215.2,1324.7,157.3
+GS,South Georgia and the South Sandwich Islands,"-54,4296","-36,588",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GT,Guatemala,"15,7835","-90,231",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GU,Guam,"13,4443","144,794",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GW,Guinea-Bissau,"11,8037","-15,18",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GY,Guyana,"4,8604","-58,93",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+GZ,Gaza Strip,"31,3547","34,309",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+HK,Hong Kong,"22,3964","114,109",2116517,2011425,2890992,3535897,4609342,5514193
+HM,Heard Island and McDonald Islands,"-53,0818","73,504",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+HN,Honduras,"15,2","-86,242",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+HR,Croatia,"45,1","15,2",0,783,635.9,0,0,0.1
+HT,Haiti,"18,9712","-72,285",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+HU,Hungary,"47,1625","19,503",50,1900.1,798.7,1560.3,1962.9,84480.9
+ID,Indonesia,"-0,7893","113,921",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+IE,Ireland,"53,4129","-8,244",3640,602.3,25412.4,15411.5,31784.9,1452.4
+IL,Israel,"31,0461","34,852",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+IM,Isle of Man,"54,2361","-4,548",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+IN,India,"20,5937","78,963",286615.2,82124,58272.3,57625.9,49575.7,127596.9
+IO,British Indian Ocean Territory,"-6,3432","71,877",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+IQ,Iraq,"33,2232","43,679",1717.2,49.1,106.9,10,0,383.3
+IR,Iran,"32,4279","53,688",11509.1,298.7,325.1,61.6,48.8,228.1
+IS,Iceland,"64,9631","-19,021",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+IT,Italy,"41,8719","12,567",64858.8,32088.5,27445.3,12681.1,37589.1,26872.2
+JE,Jersey,"49,2144","-2,131",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+JM,Jamaica,"18,1096","-77,298",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+JO,Jordan,"30,5852","36,238",220760,540043,1401,1024,312.8,602.8
+JP,Japan,"36,2048","138,253",4996158,4952771,4310907,2588016,2263229,3562794
+KE,Kenya,"-0,0236","37,906",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+KG,Kyrgyzstan,"41,2044","74,766",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+KH,Cambodia,"12,5657","104,991",200,0,0,0,0,0
+KI,Kiribati,"-3,3704","-168,734",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+KM,Comoros,"-11,875","43,872",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+KN,Saint Kitts and Nevis,"17,3578","-62,783",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+KP,North Korea,"40,3399","127,51",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+KR,South Korea,"35,9078","127,767",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+KW,Kuwait,"29,3117","47,482",710,500.7,145.7,83.2,576.4,1018.5
+KY,Cayman Islands,"19,5135","-80,567",219702.4,250837.3,175640.9,182898.6,115283.1,143765.3
+KZ,Kazakhstan,"48,0196","66,924",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+LA,Laos,"19,8563","102,495",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+LB,Lebanon,"33,8547","35,862",280.3,44.8,1011,693.8,345.2,170.4
+LC,Saint Lucia,"13,9094","-60,979",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+LI,Liechtenstein,"47,166","9,555",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+LK,Sri Lanka,"7,8731","80,772",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+LR,Liberia,"6,4281","-9,429",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+LS,Lesotho,"-29,61","28,234",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+LT,Lithuania,"55,1694","23,881",333.7,1810.2,562.8,525,442.6,727.6
+LU,Luxembourg,"49,8153","6,13",79380,134260.7,126017.3,209184.7,144551.9,64466.7
+LV,Latvia,"56,8796","24,603",59.3,140.5,0,0,45142,44989
+LY,Libya,"26,3351","17,228",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MA,Morocco,"31,7917","-7,093",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MC,Monaco,"43,7503","7,413",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MD,Moldova,"47,4116","28,37",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+ME,Montenegro,"42,7087","19,374",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MG,Madagascar,"-18,7669","46,869",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MH,Marshall Islands,"7,1315","171,184",3079.3,386520.3,154636.9,19578.7,7427.6,1154.8
+MK,Macedonia [FYROM],"41,6086","21,745",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+ML,Mali,"17,5707","-3,996",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MM,Myanmar [Burma],"21,914","95,956",600,0,0,0,0,0
+MN,Mongolia,"46,8625","103,847",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MO,Macau,"22,1987","113,544",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MP,Northern Mariana Islands,"17,3308","145,385",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MQ,Martinique,"14,6415","-61,024",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MR,Mauritania,"21,0079","-10,941",3539,0,11477.5,0,481.7,189.3
+MS,Montserrat,"16,7425","-62,187",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MT,Malta,"35,9375","14,375",7549.2,4597.8,5263.2,1759.1,13031,2010.1
+MU,Mauritius,"-20,3484","57,552",1056593,267861,85384.1,112320.8,106483.3,277439.3
+MV,Maldives,"3,2028","73,221",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MW,Malawi,"-13,2543","34,302",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MX,Mexico,"23,6345","-102,553",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+MY,Malaysia,"4,2105","101,976",1213632,1774901,1357479,1045271,1364326,3343266
+MZ,Mozambique,"-18,6657","35,53",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+NA,Namibia,"-22,9576","18,49",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+NC,New Caledonia,"-20,9043","165,618",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+NE,Niger,"17,6078","8,082",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+NF,Norfolk Island,"-29,0408","167,955",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+NG,Nigeria,"9,082","8,675",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+NI,Nicaragua,"12,8654","-85,207",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+NL,Netherlands,"52,1326","5,291",1489425,943123.2,2596782,1422375,1761622,1220216
+NO,Norway,"60,472","8,469",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+NP,Nepal,"28,3949","84,124",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+NR,Nauru,"-0,5228","166,932",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+NU,Niue,"-19,0544","-169,867",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+NZ,New Zealand,"-40,9006","174,886",15131.7,2695736,490278,13387.9,2294242,657439
+OM,Oman,"21,5126","55,923",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+PA,Panama,"8,538","-80,782",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+PE,Peru,"-9,19","-75,015",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+PF,French Polynesia,"-17,6797","-149,407",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+PG,Papua New Guinea,"-6,315","143,956",0,0,0,0,0,0
+PH,Philippines,"12,8797","121,774",73550,15393.9,2800741,159.5,70023.1,14121.3
+PK,Pakistan,"30,3753","69,345",7794.3,3992.3,1162.6,177.7,71.5,5891.2
+PL,Poland,"51,9194","19,145",19726.1,200,667,1091.5,993,2556.6
+PM,Saint Pierre and Miquelon,"46,9419","-56,271",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+PN,Pitcairn Islands,"-24,7036","-127,439",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+PR,Puerto Rico,"18,2208","-66,59",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+PS,Palestinian Territories,"31,9522","35,233",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+PT,Portugal,"39,3999","-8,224",400,1188.5,82,251.4,1653.4,1733.6
+PW,Palau,"7,515","134,583",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+PY,Paraguay,"-23,4425","-58,444",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+QA,Qatar,"25,3548","51,184",0,200,0,1839149,16250,287.8
+RE,Réunion,"-21,1151","55,536",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+RO,Romania,"45,9432","24,967",293.1,1577.8,0,0,57.4,946.9
+RS,Serbia,"44,0165","21,006",0,0,0,0,0,0
+RU,Russia,"61,524","105,319",2011086,101356,18411.6,987433,23207.8,30567.8
+RW,Rwanda,"-1,9403","29,874",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+SA,Saudi Arabia,"23,8859","45,079",3536.3,5359.2,5408.2,5745,3639.7,1743.1
+SB,Solomon Islands,"-9,6457","160,156",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+SC,Seychelles,"-4,6796","55,492",218268.4,95348.2,228566.6,67234.8,52224.2,76321.9
+SD,Sudan,"12,8628","30,218",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+SE,Sweden,"60,1282","18,644",17896.8,16830.6,26289.8,1133958,2674186,59379.2
+SG,Singapore,"1,3521","103,82",8441564,9193183,6509628,9779106,9390063,13281113
+SH,Saint Helena,"-24,1435","-10,031",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+SI,Slovenia,"46,1512","14,995",450,20,942.4,198.5,55.9,3713.1
+SJ,Svalbard and Jan Mayen,"77,5536","23,67",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+SK,Slovakia,"48,669","19,699",139,178.7,2.3,30.6,687.9,1301.8
+SL,Sierra Leone,"8,4606","-11,78",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+SM,San Marino,"43,9424","12,458",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+SN,Senegal,"14,4974","-14,452",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+SO,Somalia,"5,1521","46,2",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+SR,Suriname,"3,9193","-56,028",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+ST,São Tomé and Príncipe,"0,1864","6,613",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+SV,El Salvador,"13,7942","-88,897",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+SY,Syria,"34,8021","38,997",1051960,783.1,-320316,0,918,20486
+SZ,Swaziland,"-26,5225","31,466",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TC,Turks and Caicos Islands,"21,694","-71,798",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TD,Chad,"15,4542","18,732",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TF,French Southern Territories,"-49,2804","69,349",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TG,Togo,"8,6195","0,825",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TH,Thailand,"15,87","100,993",220211.9,396332.2,342815.3,112105.1,450289.1,209285.6
+TJ,Tajikistan,"38,861","71,276",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TK,Tokelau,"-8,9674","-171,856",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TL,Timor-Leste,"-8,8742","125,728",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TM,Turkmenistan,"38,9697","59,556",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TN,Tunisia,"33,8869","9,537",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TO,Tonga,"-21,179","-175,198",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TR,Turkey,"38,9637","35,243",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TT,Trinidad and Tobago,"10,6918","-61,223",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TV,Tuvalu,"-7,1095","177,649",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+TW,Taiwan,"23,6978","120,961",397028.9,210222.8,181088.5,454344.1,316854.7,236735.6
+TZ,Tanzania,"-6,369","34,889",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+UA,Ukraine,"48,3794","31,166",693.6,945,556.3,2230.5,1602.7,1223.3
+UG,Uganda,"1,3733","32,29",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+US,US,"37,0902","-95,713",1992844,1217624,989312.7,749730.9,2537219,3026234
+UY,Uruguay,"-32,5228","-55,766",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+UZ,Uzbekistan,"41,3775","64,585",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+VA,Vatican City,"41,9029","12,453",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+VC,Saint Vincent and the Grenadines,"12,9843","-61,287",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+VE,Venezuela,"6,4238","-66,59",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+VG,British Virgin Islands,"18,4207","-64,64",844828,1043256,743785.5,334339.1,345193,423312.1
+VI,U.S. Virgin Islands,"18,3358","-64,896",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+VN,Vietnam,"14,0583","108,277",113.9,0,88,39.1,0,45161
+VU,Vanuatu,"-15,3767","166,959",0,0,190.7,0,0,0
+WF,Wallis and Futuna,"-13,7688","-177,156",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+WS,Samoa,"-13,759","-172,105",671895,13631.1,1910736,1893174,2190027,73423.9
+XK,Kosovo,"42,6026","20,903",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+YE,Yemen,"15,5527","48,516",2600,1702153,470100,1865,356.4,514780
+YT,Mayotte,"-12,8275","45,166",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+ZA,South Africa,"-30,5595","22,938",873448,1267119,400.4,78.3,1459,451.5
+ZM,Zambia,"-13,1339","27,849",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+ZW,Zimbabwe,"-19,0154","29,155",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A

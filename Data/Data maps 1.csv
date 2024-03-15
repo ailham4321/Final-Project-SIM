@@ -1,0 +1,85 @@
+benua,negara,Nama,2017,2018,2019,2020,2021,2022
+Asia,ASEAN,ASEAN,0,0,0,0,0,0
+Asia,Singapura / Singapore,Singapore,8441564,9193183,6509628,9779106,9390063,13281113
+Asia,Malaysia / Malaysia,Malaysia,1213632,1774901,1357479,1045271,1364326,3343266
+Asia,Thailand / Thailand,Thailand,220211.9,396332.2,342815.3,112105.1,450289.1,209285.6
+Asia,Philipina / The Philippines,Philippines,73550,15393.9,9568.3,159.5,70023.1,14121.3
+Asia,Brunei Darussalam / Brunei Darrussalam,Brunei Darussalam,8538.4,508.5,532.9,0.3,0,0.9
+Asia,Myanmar / Myanmar,Myanmar,600,0,0,0,0,0
+Asia,Kamboja / Cambodia,Cambodia,200,0,0,0,0,0
+Asia,Vietnam /,Viet Nam,113.9,0,88,39.1,0,23.8
+Asia,Jepang / Japan,Japan,4996158,4952771,4310907,2588016,2263229,3562794
+Asia,R.R. Tiongkok / People's Republic of China,China,3361231,2376538,4744509,4842406,3160380,8226035
+Asia,Korea Selatan / South Korea,South Korea,2024621,1604719,1070213,1841946,1640156,2297835
+Asia,Hongkong; RRT / Hong Kong (SAR),Hong Kong,2116517,2011425,2890992,3535897,4609342,5514193
+Asia,Taiwan / Taiwan,Taiwan,397028.9,210222.8,181088.5,454344.1,316854.7,236735.6
+Asia,India / India,India,286615.2,82124,58272.3,57625.9,49575.7,127596.9
+Asia,Pakistan / Pakistan,Pakistan,7794.3,3992.3,1162.6,177.7,71.5,5891.2
+Asia,Negara Lainnya,Another,5686.4,1890.1,7379.8,2294.6,538.5,8324
+Timur Tengah,Uni Emirat Arab / United Arab Emirates,United Arab Emirates,26624.9,69942.7,69733,21577.5,16149.2,22883
+Timur Tengah,Iran / Iran,Iran,11509.1,298.7,325.1,61.6,48.8,228.1
+Timur Tengah,Saudi Arabia / Saudi Arabia,Saudi Arabia,3536.3,5359.2,5408.2,5745,3639.7,1743.1
+Timur Tengah,Yaman / Yemen,Yemen,2600,6560.5,3187.2,1865,356.4,3309.6
+Timur Tengah,Suriah / Syria,Syiria,4780.3,783.1,1023.1,0,918,1956.2
+Timur Tengah,Yordania / Jordan,Jordan,2504.6,3378.8,1401,1024,312.8,602.8
+Timur Tengah,Irak / Irak,Irak,1717.2,49.1,106.9,10,0,383.3
+Timur Tengah,Bahrain / Bahrain,Bahrain,664.2,86.6,0,0,0,0
+Timur Tengah,Kuwait / Kuwait,Kuwait,710,500.7,145.7,83.2,576.4,1018.5
+Timur Tengah,Lebanon / Lebanon,Lebanon,280.3,44.8,1011,693.8,345.2,170.4
+Timur Tengah,Qatar / Qatar,Qatar,0,200,0,6935.6,16250,287.8
+Eropa,UNI EROPA,Europian Union,0,0,0,0,0,0
+Eropa,Belanda / Netherlands,Netherlands,1489425,943123.2,2596782,1422375,1761622,1220216
+Eropa,Inggris / United Kingdom,United Kingdom,774784,271133.6,142121.7,192752.4,322949.1,628275.8
+Eropa,Perancis / France,France,249570.8,49631.1,167354.3,25111.7,145763.8,252867.9
+Eropa,Jerman / Germany,Germany,288980.5,280418.1,189303.2,143614,182319,195494.8
+Eropa,Belgia / Belgium,Belgium,130532.3,216373.2,86841.7,27041,55514,73163.3
+Eropa,Luxembourg / Luxembourg,Luxembourg,79380,134260.7,126017.3,209184.7,144551.9,64466.7
+Eropa,Italia / Italy,Italy,64858.8,32088.5,27445.3,12681.1,37589.1,26872.2
+Eropa,Polandia / Poland,Poland,19726.1,200,667,1091.5,993,2556.6
+Eropa,Denmark / Denmark,Denmark,17958.5,1816.2,7604.1,2505,14242.7,12696.3
+Eropa,Swedia / Sweden,Sweden,17896.8,16830.6,26289.8,5004.9,9221.9,59379.2
+Eropa,Malta /,Malta,7549.2,4597.8,5263.2,1759.1,13031,2010.1
+Eropa,Siprus / Cyprus,Cyprus,6601.2,5574,5382.9,426.4,254,1407.3
+Eropa,Spanyol / Spain,Spain,7800.6,10521.1,6833.3,7584.4,6776.5,17290.5
+Eropa,Irlandia / Ireland,Ireland,3640,602.3,25412.4,15411.5,31784.9,1452.4
+Eropa,Austria / Austria,Austria,3161.9,71406.7,19696.7,1221.4,63348.5,67399.4
+Eropa,Ceko / Czech,Czech,1554.3,968.5,1062.7,754.5,1036.8,3234.2
+Eropa,Bulgaria / Bulgarium,Bulgarium,1213.1,521.3,177.8,176.4,154.5,1001
+Eropa,Lithuania /,Lithuania,333.7,1810.2,562.8,525,442.6,727.6
+Eropa,Slovenia / Slovenia,Slovenia,450,20,942.4,198.5,55.9,3713.1
+Eropa,Rumania / Rumania,Rumania,293.1,1577.8,0,0,57.4,946.9
+Eropa,Latvia /,Latvia,59.3,140.5,0,0,4.8,4.3
+Eropa,Hungaria / Hungary,Hungary,50,1900.1,798.7,1560.3,1962.9,84480.9
+Eropa,Slovakia / Slovakia,Slovakia,139,178.7,2.3,30.6,687.9,1301.8
+Eropa,Yunani / Greece,Greece,610,728.1,734.9,215.2,1324.7,157.3
+Eropa,Finlandia / Finland,Finland,200,3528.2,5330.8,3.8,4983.6,2691.8
+Eropa,Estonia /,Estonia,0,0,0,7,0,313.6
+Eropa,Kroasia /,Croatia,0,783,635.9,0,0,0.1
+Eropa,Portugal / Portugal,Portugal,400,1188.5,82,251.4,1653.4,1733.6
+Eropa,Negara Lainnya,Other,641585.7,265983.2,193056.6,138570.9,625287.7,143143.4
+Eropa Timur,Rusia / Russia,Russia,7406.3,2177.7,18411.6,4603.7,23207.8,30567.8
+Eropa Timur,Ukraina / Ukraine,Ukraine,693.6,945,556.3,2230.5,1602.7,1223.3
+Eropa Timur,Republik Serbia / Republic of Serbia,Serbia,0,0,0,0,0,0
+Eropa Timur,Azerbaijan /,Azerbaijan,180,0,0,0,5.5,0
+Eropa Timur,Gibraltar / Gibraltar,Gibraltar,0,0,0,9.2,0,37.6
+Eropa Timur,Yugoslavia / Yogoslovia,Yogoslavia,0,0,0,0,0,0
+Amerika,Amerika Serikat / United States of America,United States ,1992844,1217624,989312.7,749730.9,2537219,3026234
+Amerika,British Virgin Islands / British Virgin Islands,British Virgin Islands,844828,1043256,743785.5,334339.1,345193,423312.1
+Amerika,Brasil / Brazil,Brazil,231642.7,98427.3,18749.5,682.5,282.1,8803
+Amerika,Cayman Islands / Cayman Island,Cayman Islands,219702.4,250837.3,175640.9,182898.6,115283.1,143765.3
+Amerika,Kanada / Canada,Canada,85652.2,170769.3,186267.4,175287,182090.7,250428.2
+Amerika,Negara Lainnya,Other,12689.3,104409.6,25319.8,123102.7,699994.4,957949.4
+Australia,Australia / Australia,Australia,513865.5,597437.8,348265.8,348553.3,195195.5,524408.5
+Australia,Selandia Baru / New Zealand,New Zealand,15131.7,9280.9,3242.5,13387.9,8181.6,3700.1
+Australia,Marshall Island / Marshall Islands,Marshall Islands,3079.3,386520.3,154636.9,19578.7,7427.6,1154.8
+Australia,Samoa Barat / Western Samoa,Western Samoa,3739.8,13631.1,7131.6,7083.5,7896.2,73423.9
+Australia,Cook Islands /,Cook Islands,1684.4,3901.9,6449.3,1127,749.7,19391.1
+Australia,Fiji /,Fiji,100,0,0,0,0,0
+Australia,Papua Nugini /,Papua New Guinea,0,0,0,0,0,0
+Australia,Vanuatu / Vanuatu,Vanuatu,0,0,190.7,0,0,0
+Afrika,Mauritius / Mauritius,Mauritius,1056593,267861,85384.1,112320.8,106483.3,277439.3
+Afrika,Seychelles / Seychelles,Seychelles,218268.4,95348.2,228566.6,67234.8,52224.2,76321.9
+Afrika,Mauritania / Mauritania,Mauritania,3539,0,11477.5,0,481.7,189.3
+Afrika,Afrika Selatan / South Africa,South Africa,4291.6,5369.4,400.4,78.3,1459,451.5
+Afrika,Guinea / Guinea,Guinea,1500,0,0,0,0,0
+Afrika,Negara Lainnya,Other,4544.9,5358.1,1031,516.3,979.2,3630.6
